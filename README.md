@@ -18,7 +18,7 @@ Maybe making a game in a weekend as a fun project ? (Epitech Jam anyone ?..)
 ## Why follow this tutorial ?
 
 There are many Roblox tutorial and developers out there but not many have extensive programming experience like I have.  
-My experiences in Python, C, C++, Haskell, game engine development, networking, neural network and more shaped the way I approach programming unlike many.  
+My experiences in Python, C, C++, Haskell, game engine development, networking, neural network, devops, sysadmin and more shaped the way I approach programming unlike many.  
 I hope to introduce good pratices and OOP concepts in this tutorial.  
 I'll even teach and explain to you how and why I organize my Roblox project.
 

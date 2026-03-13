@@ -6,6 +6,7 @@ Find here my tutorial on using Roblox Studio after my year working on it at Keim
 
 - Client / Server interaction
 - Scripting and good practices
+- DataStores for permanent player data
 - UI
 - Custom player animation
 - Sounds and ux

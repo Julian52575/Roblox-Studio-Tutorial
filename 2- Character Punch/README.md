@@ -64,9 +64,7 @@ One party will fire it, and the other will listen and react to the fire.
 ---
 ### Roblox Lua Programming
 
-> [!TIP]
-> If you are already familiar with lua programming for Roblox Studio, you can skip this part.  
-> If not, you can check this [`official guide`](https://create.roblox.com/docs/scripting) to understand the following code better.  
+Check this [`official guide`](https://create.roblox.com/docs/scripting) to understand the tutorial code better.  
 
 ---
 ### Workspace VS Players

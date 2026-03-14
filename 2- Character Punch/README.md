@@ -87,6 +87,23 @@ It will be copied into the `PlayerScripts` folder of each Player's folder inside
 > `Scripts` can only be used inside `ServerScriptService`.
 
 ---
+### Events
+
+Events are split between [`Signal`](https://create.roblox.com/docs/reference/engine/datatypes/RBXScriptSignal) and [`Connection`](https://create.roblox.com/docs/reference/engine/datatypes/RBXScriptConnection).  
+You [`Connect`](https://create.roblox.com/docs/reference/engine/datatypes/RBXScriptSignal#Connect) your function to a signal.  
+Roblox Studio will provide signals for many events.  
+IE: [Here](https://create.roblox.com/docs/reference/engine/classes/Players#summary-events) are the events for the `Players` service
+
+```
+local Players = game:GetService("Players")
+
+Players.PlayerAdded:Connect(function(player)
+	print(player.Name .. " joined the experience!")
+end)
+```
+> Here, we connect a function that will output a message when the `PlayerAdded` event is fired by Roblox itself.   
+
+---
 ## Working
 
 For this task, we will create:

@@ -1,7 +1,7 @@
 <img width="932" height="109" alt="image" src="https://github.com/user-attachments/assets/e0ec10f5-144a-4564-b56b-0a5decb98108" />
 
 > [!TIP]
-> This button will show the structure
+> This button will show the guide outline
 
 # 2- Player punching attack
 

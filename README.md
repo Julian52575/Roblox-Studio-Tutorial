@@ -1,3 +1,8 @@
+<img width="932" height="109" alt="image" src="https://github.com/user-attachments/assets/e0ec10f5-144a-4564-b56b-0a5decb98108" />
+
+> [!TIP]
+> This button will show the guide structure
+
 # Roblox Studio Tutorial
 
 Find here my tutorial on using Roblox Studio after my year working on it at Keimyung University.  
